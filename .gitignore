@@ -4,11 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
-/WhatMakesUsDifferent
-/Our Team
-/Our Medical Services
-/Latest News & Our Blog
-/HeroSection
+/.WhatMakesUsDifferent
+/.Our Team
+/.Our Medical Services
+/.Latest News & Our Blog
+/.HeroSection
 # testing
 /coverage
 
